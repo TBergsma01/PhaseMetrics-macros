@@ -11,6 +11,7 @@ Initiation:
 *Step 1 and 2 only have to be performed once upon first time use.
 
 Defining settings:
+
 3.	Open select number of images that properly reflect the total variability of structures seen between different conditions to be analysed.
 4.	For multi-channel images, split channels:
 	Image > Color > Split Channels.
@@ -27,7 +28,9 @@ Defining settings:
 9.	Convert Filtered image to binary image, and generate threshold montage:
 	Image > Type > 8-bit > Adjust > Auto Threshold > Method: Try all*
 *Resulting threshold montage gives an overview of all available thresholding algorithms within FIJI for selection of threshold that fits best. The name of the corresponding thresholding methods are indicated at the bottom centre of each of the masked panels (Zoom-in to visualize names).
+
 Initiation PhaseMetrics:
+
 10.	To run PhaseMetrics using the simple graphical user interface, either:
 	Copy-paste the desired script(s) (PhaseMetrics_invitro.ijm or PhaseMetrics_cellular.ijm) into the macros folder of FIJI > go to FIJI > Plugins > Install… > Select PhaseMetrics script > Save in plugins folder of FIJI > Re-start FIJI. From now on, the PhaseMetrics script can standardly be accessed from: FIJI > Plugins > scroll down to bottom of list.
 11.	To run PhaseMetrics using the command-line interface:
