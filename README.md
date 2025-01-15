@@ -1,6 +1,8 @@
 # PhaseMetrics-macros
 FIJI/ImageJ macros for running PhaseMetrics (versions for in vitro and cellular datasets). For more information please refer to the corresponding publication:  https://www.jbc.org/article/S0021-9258(24)02632-2/fulltext. 
 
+Upon use, please cite: Bergsma T, Steen A, Kamenz JL, Otto TA, Gallardo P, Veenhoff LM. Imaging-Based Quantitative Assessment of Biomolecular Condensates in vitro and in Cells. J Biol Chem. 2024 Dec 24:108130. doi: 10.1016/j.jbc.2024.108130. PMID: 39725032.
+
 PhaseMetrics instruction manual
 Initiation:
 1.	Upon opening Fiji install required update sites for proper functioning of macro:
