@@ -802,7 +802,7 @@ function clean_title(imagename){
 	Sub_Title=replace(Sub_Title, "-","_");
 	Sub_Title=replace(Sub_Title, "+","_");
 	Sub_Title=replace(Sub_Title, " ","_");
-	Sub_Title=replace(Sub_Title, ".","_");
+	Sub_Title=replace(Sub_Title, ".","");
 	Sub_Title=replace(Sub_Title, "_R3D_D3D","");
 	Sub_Title=Sub_Title;
 	return Sub_Title;
